@@ -6,13 +6,13 @@
 
 I build integrations between enterprise systems, APIs and databases.
 
-Currently working with **DATAREON ESB**, connecting different systems and making data flow reliably between them.
+Currently working with **Datareon Platform**, connecting different systems and making data flow reliably between them.
 
 <br/>
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![DATAREON ESB](https://img.shields.io/badge/DATAREON-ESB-2563EB?style=for-the-badge)
+![Datareon Platform](https://img.shields.io/badge/DATAREON-ESB-2563EB?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 </div>
@@ -22,7 +22,7 @@ Currently working with **DATAREON ESB**, connecting different systems and making
 ## 👨‍💻 About Me
 
 * 🔌 **ESB / Integration Developer**
-* 🚀 Working with **DATAREON ESB**
+* 🚀 Working with **Datareon Platform**
 * 🔄 Building integrations between **1C, REST APIs, databases and enterprise systems**
 * 💻 Background in **C# / .NET desktop development**
 * 🖥️ Experience with **WPF, WPF UI and MVVM**
@@ -40,7 +40,7 @@ Currently working with **DATAREON ESB**, connecting different systems and making
 └──────────────┘  │
                   │
 ┌──────────────┐  │      ┌────────────────┐      ┌──────────────┐
-│   REST API   │──┼─────▶│  DATAREON ESB  │─────▶│ Other System │
+│   REST API   │──┼─────▶│  Datareon Platform  │─────▶│ Other System │
 └──────────────┘  │      └────────────────┘      └──────────────┘
                   │
 ┌──────────────┐  │
@@ -68,7 +68,7 @@ I work with integration flows between heterogeneous systems — receiving, trans
 
 ### 🔌 Integration
 
-![DATAREON ESB](https://img.shields.io/badge/DATAREON_ESB-2563EB?style=for-the-badge)
+![Datareon Platform](https://img.shields.io/badge/DATAREON_ESB-2563EB?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![1C](https://img.shields.io/badge/1C-FFCB05?style=for-the-badge\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
